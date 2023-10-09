@@ -1,0 +1,27 @@
+.banner-first {
+    box-sizing: border-box;
+    background-color: #3A4042;
+    height: 575px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-bottom: 10px solid #000;
+    padding-top: 115px;
+    padding-left: 90px;
+}
+
+
+.banner-first .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 630px;
+}
+
+.banner-first .box{
+    margin-bottom: 40px;
+}
+
+.banner-first .navigation{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 38px;
+}

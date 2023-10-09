@@ -1,0 +1,11 @@
+.section-skills{
+    background-color: #505ABA;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #31A708;
+    overflow: hidden;
+}
+
+.section-skills .main-title{
+    margin-bottom: 60px;
+}

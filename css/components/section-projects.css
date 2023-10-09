@@ -1,0 +1,10 @@
+.section-projects{
+    background-color: #000;
+    border-bottom: 10px solid #F25A70;
+    overflow: hidden;
+}
+
+.section-projects .main-title.-second{
+    padding-top: 52px;
+    padding-bottom: 50px;
+}

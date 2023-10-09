@@ -1,0 +1,22 @@
+.contatos-second{
+    opacity: 0;
+    height: 350px;
+    width: 350px;
+    margin-left: 750px;
+    position: relative;
+    bottom: 268px;
+    transition: all 0.2s;
+
+}   
+
+.qr-code{
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    padding: 0;
+
+}
+
+.contatos-second .button-link{
+    margin-top: 20px;
+}

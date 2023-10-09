@@ -1,0 +1,27 @@
+.main-form{
+    background-color: #3A4042;
+    padding-left: 45px;
+    padding-right: 45px;
+    overflow: hidden;
+}
+
+.main-label{
+    color: #fff;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 40px;
+}
+
+.main-form .main-title.-second{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.main-form .main-input{
+    margin-bottom: 20px;
+}
+
+.main-form .main-input{
+    margin-bottom: 40px;
+}

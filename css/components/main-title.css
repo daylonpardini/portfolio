@@ -1,0 +1,19 @@
+.main-title,.logo {
+    display: inline-flex;
+    color: #FFFFFF;
+    font-family: 'Press Start 2P';
+    font-size: 30px;
+    text-shadow: 5px 5px #000000;
+    transition: 0.3s;
+}
+
+.main-title,.logo:hover{
+    transform: scale(1.08)
+}
+
+.main-title.-second{
+    display: block;
+    color: #FFF;
+    text-align: center;
+    text-shadow: none;
+}

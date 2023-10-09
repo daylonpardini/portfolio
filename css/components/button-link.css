@@ -1,0 +1,32 @@
+.button-link {
+    color:#FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    box-shadow: 5px 5px #000000;
+    background-color: #FF002A;
+    padding-right: 20px;
+    padding-top: 18px;
+    padding-bottom: 18px ;
+    padding-left: 20px;
+    margin-right: 0;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.button-link:hover{
+    transform: scale(1.08);
+}
+
+.button-link.-full{
+    background-color: #31A708;
+    width: 100%;
+    margin-bottom: 47px;
+    margin-top: 40px;
+}
+
+.button-link.-full:hover{
+    transform: scale(1.01);
+}
